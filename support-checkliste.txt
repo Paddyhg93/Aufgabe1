@@ -1,0 +1,5 @@
+Benutzer kann sich nicht anmelden 
+System xx
+Fehler besteht in der db neknüpfung
+
+db verbindung aktuallisierung
